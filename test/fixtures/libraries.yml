@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  studnet_no: 1
+  Student: one
+
+two:
+  studnet_no: 1
+  Student: two
